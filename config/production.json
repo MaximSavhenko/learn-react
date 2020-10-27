@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "maxim react lern",
+    "mongoUri": "mongodb+srv://Max:08082400@cluster0.thf3r.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
